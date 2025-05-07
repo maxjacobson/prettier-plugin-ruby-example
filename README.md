@@ -1,5 +1,7 @@
 # @prettier/plugin-ruby and rubocop incompatibility example
 
+<https://github.com/prettier/plugin-ruby/issues/1460>
+
 See this sample code in app.rb
 
 ```ruby
